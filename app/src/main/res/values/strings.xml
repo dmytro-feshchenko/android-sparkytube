@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SparkYTube</string>
+    <string name="title_activity_full_screen_video">FullScreenVideoActivity</string>
 </resources>

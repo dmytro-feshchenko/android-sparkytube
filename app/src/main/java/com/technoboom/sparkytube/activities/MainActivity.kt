@@ -1,9 +1,10 @@
-package com.technoboom.sparkytube
+package com.technoboom.sparkytube.activities
 import io.reactivex.rxkotlin.subscribeBy;
 import io.reactivex.rxkotlin.toObservable;
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.technoboom.sparkytube.R
 
 class MainActivity : AppCompatActivity() {
 
